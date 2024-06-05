@@ -16,7 +16,7 @@ const CONFIG = {
     description: "Welcome to my blog",
     theme: "auto",
   },
-
+  projects: [],
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
