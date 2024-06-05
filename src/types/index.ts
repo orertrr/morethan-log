@@ -49,3 +49,8 @@ export type TCategories = {
 }
 
 export type ThemeType = "dark" | "light"
+
+export type Project = {
+  name: string,
+  href: string
+}
